@@ -1,4 +1,4 @@
-import mylogger
+import jsonmsg_Logger
 import logging
 
 
